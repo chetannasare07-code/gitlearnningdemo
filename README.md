@@ -1,4 +1,5 @@
 # gitlearnningdemo
+
 first git repository
 <br>
-Author -Chetan Nasare
+Author -Chetan Nasare(Software Developer)
